@@ -19,3 +19,9 @@ TOOLS FROM Syntax Brute Code Malaysia
 
 
 #############################################
+
+INSTALLATION :
+
+git clone https://github.com/dennycyber/emai-finder
+cd email_finder
+python3 EMAIL_SBC.MY.py
